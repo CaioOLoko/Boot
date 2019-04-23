@@ -10,7 +10,6 @@
         marca: <?=$marca?><br>
         tamanho: <?=$tamanho?><br>
         valor: <?=$valor?><br>
-   
 </body>
 </html>
 

@@ -7,6 +7,7 @@
         
         exibir("produto/vizualizar", $Boot);
          
+
     }
     
    function adicionar(){
@@ -28,4 +29,4 @@
    
    
    
-  
+ 
